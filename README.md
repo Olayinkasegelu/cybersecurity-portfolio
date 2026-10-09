@@ -21,7 +21,7 @@ exploitation practice, snapshot-based workflow.
 
 ## Defensive Foundations
 
-Understanding detection makes for sharper offense. Documented labs include:
+Understanding detection makes for sharper offense. Lab documentation in progress:
 
 - Network Enumeration & Service Analysis (Nmap)
 - Brute Force Detection via Windows Event Logs (Event ID 4625)
@@ -29,12 +29,13 @@ Understanding detection makes for sharper offense. Documented labs include:
 - SIEM Mini Project: Brute Force Detection using Splunk (log ingestion, custom detection queries, alerting)
 - Active Directory Hardening (password policy, lockout, privileged access review, audit logging)
 
-Each lab includes objective, tools, methodology, findings and mitigation notes.
+Each documented lab includes objective, tools, methodology, findings and mitigation notes.
 
 ## Training & Certifications
 
 - Certified Ethical Hacker (CEH v10) — EC-Council / Koenig Solutions, India (2020)
 - Full Stack Data Science — Abuja Data School (2024)
+- Erprobungscenter Digitale Berufe (HTML, CSS, JavaScript) — DCI, Düsseldorf (2018)
 - Machine Learning & Artificial Intelligence — RAIN Nigeria (from Feb 2027)
 - Oracle 11i — Koenig Solutions, New Delhi (2008)
 
