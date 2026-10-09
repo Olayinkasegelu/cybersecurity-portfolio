@@ -89,4 +89,5 @@ Upgrade end-of-life software: Samba 3.0.20, Apache 2.2.8, MySQL 5.0, PostgreSQL 
   Tomcat 5.5, UnrealIRCd.
 Enable SMB message signing; enforce VNC authentication; segment the network.
 Screenshots
-screenshots/nmap-scan.png — full nmap -sV -sC output (to be added)
+s- `screenshots/nmap-scan.png` — scan command and output (ports 21–111), showing anonymous FTP login allowed on vsftpd 2.3.4
+
