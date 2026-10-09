@@ -1,13 +1,6 @@
-4. Configure alert for repeated failed attempts
-
-## Findings
-- Successfully detected multiple failed logins
-- Generated alert with source IP and username
-
-## Lessons Learned
-- Log ingestion and correlation basics
-- Query creation for event detection
-- Alert configuration in SIEM
-
-## Screenshots
-- `screenshots/` folder contains Splunk dashboards and alerts.
+Reports
+Lab reports and project documentation. Each report covers objective, methodology,
+findings, and lessons learned.
+Contents
+SIEM Mini Project: Brute Force Detection using Splunk (documentation in progress)
+  — log ingestion, custom detection queries, alert configuration
