@@ -1,14 +1,10 @@
-# Lab 1 – Network Enumeration with Nmap
-
-## Objective
-Perform network discovery and service enumeration to identify open ports and potential vulnerabilities.
-
-## Tools Used
-- Nmap
-- Kali Linux
-- Metasploitable VM
-
-## Steps
-1. Launch Nmap scan:
-   ```bash
-   nmap -sV -sC <target-ip>
+Tools
+Notes and configurations for the tools used across the labs in this portfolio.
+Toolset
+Nmap — network discovery and service enumeration
+Metasploit — controlled exploitation in an isolated home lab
+Burp Suite — web application assessment (foundations)
+Kali Linux / Metasploitable2 — home lab environment (VirtualBox, host-only network)
+Splunk — log ingestion and detection queries (SIEM mini project)
+Maltego — information gathering and link analysis
+Detailed per-tool notes will be added as the corresponding labs are documented.
