@@ -1,15 +1,6 @@
-# Security Labs
-
-This folder contains hands-on cybersecurity lab exercises demonstrating practical skills in:
-
-- Network reconnaissance and enumeration
-- Brute force detection and log analysis
-- Web application vulnerability assessment
-
-Each lab folder contains:
-
-- README.md with lab objectives
-- Commands used
-- Screenshots of execution
-- Findings and lessons learned
-- Recommendations and mitigation steps
+Labs
+Hands-on lab documentation. Each lab folder contains its objective, environment,
+commands used, findings, lessons learned and mitigation notes.
+Labs
+nmap-enumeration — Network enumeration & service analysis
+  with Nmap against Metasploitable2 (2026-10-09)
