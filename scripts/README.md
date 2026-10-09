@@ -1,22 +1,5 @@
-
----
-
-# 3️⃣ SIEM Project Folder README.md  
-
-Example:
-
-```markdown
-# SIEM Mini Project – Brute Force Detection
-
-## Objective
-Implement a SIEM monitoring setup to detect repeated failed login attempts on Windows systems.
-
-## Tools
-- Splunk Free
-- Windows Server
-- Kali Linux (for attack simulation)
-
-## Methodology
-1. Collect Windows Security logs into Splunk
-2. Generate failed login events
-3. Write Splunk query to detect brute force attempts:
+Scripts
+Small utility scripts supporting lab work and security practice.
+Contents
+(Scripts will be added here alongside the labs they support.)
+Each script is documented with its purpose, usage, and sample output
