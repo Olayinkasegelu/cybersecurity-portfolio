@@ -1,5 +1,5 @@
-Data Science Training
+Data Science Certificate
 
 Certified Ethical Hacker (CEH) – Knowledge foundation
 
-Ongoing preparation: CompTIA Security+
+Ongoing preparation: Machine Learning and Artificial Intelligence
