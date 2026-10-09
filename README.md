@@ -1,110 +1,53 @@
-# cybersecurity-portfolio
-My cybersecurity projects, labs, reports, and certifications.
-Cybersecurity Portfolio
+# Cybersecurity Portfolio — Olayinka Akintola Oladimeji
 
-Welcome to my Cybersecurity Portfolio repository.
+Red Team / Offensive Security practitioner — CEH, CTF player, home lab. Currently training in ML/AI.
 
-This repository showcases hands-on labs, security projects, and technical documentation demonstrating practical experience in detection, analysis, and defensive security operations.
+## Offensive Security Focus
 
-👨‍💻 Professional Profile
+- Penetration testing foundations & web application security (HTTP, authentication concepts, Burp Suite)
+- Reconnaissance & OSINT: website footprinting, email tracking, information gathering with Maltego
+- Vulnerability scanning (Nmap) & controlled exploitation (Metasploit) in an isolated home lab
+- Malware analysis & removal: rootkits, viruses, trojans, worms (Stinger, TDSSKiller)
+- Techniques: NTFS alternate data streams, steganography
+- CTF: Hackerverse monthly competitions, TryHackMe labs, certifiedhacker.com challenges
+- Emerging interest: AI system security — prompt injection, agent/tool-use boundaries
 
-Aspiring Cybersecurity Analyst with hands-on experience in building and documenting home lab environments focused on:
+All testing performed on systems under my own control or with explicit permission, within the law.
 
-Security Operations Center (SOC) processes
+## Home Lab
 
-Log analysis and event correlation
+Kali Linux + Metasploitable2 in VirtualBox (host-only network): vulnerability scanning, controlled
+exploitation practice, snapshot-based workflow.
 
-Incident detection and response fundamentals
+## Defensive Foundations
 
-Vulnerability assessment and risk identification
+Understanding detection makes for sharper offense. Documented labs include:
 
-Windows Active Directory security hardening
+- Network Enumeration & Service Analysis (Nmap)
+- Brute Force Detection via Windows Event Logs (Event ID 4625)
+- Web Application Vulnerability Scanning (OWASP-based)
+- SIEM Mini Project: Brute Force Detection using Splunk (log ingestion, custom detection queries, alerting)
+- Active Directory Hardening (password policy, lockout, privileged access review, audit logging)
 
-I am transitioning into cybersecurity with a strong focus on practical execution, structured documentation, and continuous skills development.
+Each lab includes objective, tools, methodology, findings and mitigation notes.
 
-📂 Repository Structure
-1️⃣ Security Labs
+## Training & Certifications
 
-Documented hands-on lab exercises including:
+- Certified Ethical Hacker (CEH v10) — EC-Council / Koenig Solutions, India (2020)
+- Full Stack Data Science — Abuja Data School (2024)
+- Machine Learning & Artificial Intelligence — RAIN Nigeria (from Feb 2027)
+- Oracle 11i — Koenig Solutions, New Delhi (2008)
 
-Network Enumeration & Service Analysis (Nmap)
+## Repository Structure
 
-Brute Force Detection via Windows Event Logs
+- `labs/` — hands-on lab documentation
+- `reports/` — lab reports and project documentation
+- `scripts/` — utility scripts
+- `tools/` — tool notes and configurations
+- `certifications/` — training and certification records
 
-Web Application Vulnerability Scanning (OWASP-based testing)
+## Contact
 
-Each lab includes:
-
-Objective
-
-Tools used
-
-Methodology
-
-Screenshots
-
-Findings
-
-Mitigation recommendations
-
-2️⃣ SIEM Mini Project
-
-Project: Brute Force Detection using Splunk
-
-Windows Security Log ingestion
-
-Event ID 4625 failed logon analysis
-
-Custom detection query creation
-
-Alert configuration
-
-Detection logic documentation
-
-This project demonstrates practical SOC-level monitoring and alert creation.
-
-3️⃣ Active Directory Hardening
-
-Documented implementation of:
-
-Password policy enforcement
-
-Account lockout configuration
-
-Privileged access review
-
-Audit logging enablement
-
-Reduction of attack surface through account management
-
-🎓 Training & Certifications
-
-Data Science Training
-
-Certified Ethical Hacker (CEH) – Knowledge foundation
-
-Ongoing preparation: CompTIA Security+
-
-🛠 Technical Tools & Platforms
-
-Nmap
-
-Wireshark
-
-Metasploit
-
-Splunk (SIEM)
-
-Windows Server / Active Directory
-
-Kali Linux
-
-📑 Reports
-
-All lab reports and project documentation are structured within their respective folders and include technical explanations and mitigation recommendations.
-
-📬 Contact
-
-LinkedIn:https://www.linkedin.com/in/olayinka-akintola-oladimeji-98587697/
-
-Email: iam@olayinkasegelu.com
+- GitHub: https://github.com/Olayinkasegelu
+- LinkedIn: https://www.linkedin.com/in/olayinka-akintola-oladimeji-98587697/
+- Email: iam@olayinkasegelu.com
